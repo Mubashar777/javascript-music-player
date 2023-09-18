@@ -19,6 +19,7 @@ const progressBar = document.querySelector("#ProgressMeterContainer");
 let isPlaying = false;
 let index = 0;
 
+
 const songDataBase = [
   {
     songSrc: "./music/music1.mp3",
